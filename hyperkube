@@ -1,3 +1,5 @@
+FROM gcr.io/google_containers/kube-apiserver:v1.9.4
+
 # http://gcr.io/google_containers/kube-apiserver. Or the tag in your registry.
   apiserverversion: v1.9.4
   # http://gcr.io/google_containers/kube-scheduler. Or the tag in your registry.
