@@ -1,2 +1,3 @@
 # googlecontainers
-from gcr.io
+FROM k8s.gcr.io/google_containers/hyperkube:v1.9.4
+
