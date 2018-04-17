@@ -1,0 +1,3 @@
+FROM ubuntu:16.04
+
+ADD https://storage.googleapis.com/minikube/iso/minikube-v0.23.3.iso
