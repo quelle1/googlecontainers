@@ -1,0 +1,2 @@
+FROM gcr.io/kubeflow-images-staging/tf-model-server-cpu:v20180327-995786ec
+#defaultGpuImage: "gcr.io/kubeflow-images-staging/tf-model-server-gpu:v20180327-995786ec",
